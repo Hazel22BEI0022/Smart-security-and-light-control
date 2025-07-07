@@ -154,6 +154,8 @@ Experience the project virtually: **[Wokwi Simulation Link](https://wokwi.com/pr
 
 ### **🖼️ Circuit Diagram**
 ![Circuit Schematic](schematic.png)
+
+
 *ESP32-based Smart Security System with PIR and LDR sensors*
 
 **🔌 Pin Connections:**
