@@ -167,7 +167,7 @@ Experience the project virtually: **[Wokwi Simulation Link](https://wokwi.com/pr
 ## 📹 **Demo Video**
 
 ### **🎥 System Demonstration**
-[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=your-demo-video)
+[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rirWGVPcpx7Q668bZNTJ-gEyOf1qWbya/view?usp=drive_link)
 
 ### **📋 Demo Highlights**
 - ✅ Motion detection in various lighting conditions
@@ -178,19 +178,6 @@ Experience the project virtually: **[Wokwi Simulation Link](https://wokwi.com/pr
 
 ---
 
-## 📈 **Future Enhancements**
-
-| Feature | Description | Priority |
-|---------|-------------|----------|
-| 📱 **Mobile App** | Real-time monitoring dashboard | High |
-| 🔔 **SMS Alerts** | Instant notifications for motion detection | High |
-| 🏠 **Multi-Room Support** | Expand to multiple rooms | Medium |
-| 🤖 **AI Integration** | Smart learning from user patterns | Medium |
-| 🔋 **Battery Backup** | Uninterrupted operation during power cuts | Low |
-
----
-
-
-
+**Made with ❤️ for Smart Home Automation**
 
 </div>
