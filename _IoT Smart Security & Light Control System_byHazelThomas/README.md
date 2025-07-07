@@ -153,8 +153,14 @@ Motion detected in dark! Sending alert...
 Experience the project virtually: **[Wokwi Simulation Link](https://wokwi.com/projects/435817576047501313)**
 
 ### **🖼️ Circuit Diagram**
-![Circuit Diagram](https://github.com/user/repo/blob/main/circuit_diagram.png)
+![Circuit Schematic](schematic.png)
 *ESP32-based Smart Security System with PIR and LDR sensors*
+
+**🔌 Pin Connections:**
+- **PIR Sensor**: Digital Pin 12
+- **LDR Sensor**: Analog Pin 13  
+- **LED**: Digital Pin 2 (with 1kΩ resistor)
+- **Power**: 5V and GND connections
 
 ### **⚙️ Simulation Features**
 - 🔄 **Real-time Interaction**: Click on PIR sensor to simulate motion
@@ -167,7 +173,9 @@ Experience the project virtually: **[Wokwi Simulation Link](https://wokwi.com/pr
 ## 📹 **Demo Video**
 
 ### **🎥 System Demonstration**
-[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MtsW0BbM32d_KXXC8tPVUrV1WzkOvcD7/view?usp=drive_link)
+🎬 **[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1MtsW0BbM32d_KXXC8tPVUrV1WzkOvcD7/view?usp=drive_link)**
+
+*Click the link above to view the complete system demonstration*
 
 ### **📋 Demo Highlights**
 - ✅ Motion detection in various lighting conditions
